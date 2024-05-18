@@ -1,7 +1,7 @@
 """
 Created on Sat Mar 4 08:01:49 2023
 
-@author: JCPrado
+@author: aespenida_dcandido
 """
 import numpy as np
 import matplotlib.pyplot as plt

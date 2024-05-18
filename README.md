@@ -1,5 +1,5 @@
-For the result of the output of the programs, visit Issues.
+For the result/output of the codes, visit Issues.
 
 
-(For educational purposes.)
+(For educational purposes; requirement for school.)
 
